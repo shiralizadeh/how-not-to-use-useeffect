@@ -4,8 +4,8 @@ background: #444
 highlighter: shiki
 lineNumbers: false
 info: |
-  ## Solid.js Journey
-  Coven of Wisdom
+  ## How NOT to use useEffect?
+  React Advanced
 drawings:
   persist: false
 transition: slide-left
