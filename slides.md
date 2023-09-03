@@ -18,6 +18,10 @@ src: ./slides/02.md
 ---
 
 ---
+src: ./slides/03.md
+---
+
+---
 src: ./slides/98.md
 ---
 

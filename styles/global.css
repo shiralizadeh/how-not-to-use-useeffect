@@ -5,6 +5,15 @@
   font-family: "Roboto", sans-serif;
 }
 
+h1 {
+  font-weight: bold;
+}
+
+h1,
+.color-primary {
+  color: rgb(251, 146, 60);
+}
+
 .slidev-layout {
   padding: 5rem 4rem;
 }
