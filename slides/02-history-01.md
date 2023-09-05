@@ -9,6 +9,7 @@ class: text-2xl
 - Replacment for `componentDidMount` & `componentDidUpdate`
 - Effectively, much cleaner code
 
+<!--
 ```ts
 useEffect(function () {
   fetchData();
@@ -23,4 +24,4 @@ componentDidMount() {
 componentDidUpdate() {
   this.fetchData();
 }
-```
+``` -->

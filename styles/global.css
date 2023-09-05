@@ -14,7 +14,8 @@ h1,
   color: rgb(251, 146, 60);
 }
 
-h2 {
+h2,
+strong {
   color: rgb(253, 186, 116);
 }
 
