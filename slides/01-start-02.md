@@ -3,7 +3,7 @@ layout: image-right
 image: images/profile.jpg
 ---
 
-<h2 class="color-primary">
+<h2>
   HELLO! 
 </h2>
 <h1 class="text-white">

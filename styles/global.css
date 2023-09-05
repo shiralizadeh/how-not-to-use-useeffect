@@ -14,6 +14,10 @@ h1,
   color: rgb(251, 146, 60);
 }
 
+h2 {
+  color: rgb(253, 186, 116);
+}
+
 .slidev-layout {
   padding: 5rem 4rem;
 }

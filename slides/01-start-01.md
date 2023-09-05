@@ -6,7 +6,7 @@ layout: cover
   How NOT to use useEffect?
 </h1>
 
-<h2>
+<h2 class="text-orange-100">
   useEffect is naughty!
 </h2>
 

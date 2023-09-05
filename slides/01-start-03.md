@@ -6,7 +6,7 @@ class: text-2xl
 
 # Our journey
 
-- History
-- [<span class="color-primary">4W</span>] does it run?
+- A bit history
+- [<span class="color-primary">4W</span>] Questions
 - Situations
 - Solutions
