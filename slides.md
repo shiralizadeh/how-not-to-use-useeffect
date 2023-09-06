@@ -42,6 +42,22 @@ src: ./slides/03-what-04.md
 ---
 
 ---
+src: ./slides/03-when-01.md
+---
+
+---
+src: ./slides/03-when-02.md
+---
+
+---
+src: ./slides/03-when-03.md
+---
+
+---
+src: ./slides/03-when-04.md
+---
+
+---
 src: ./slides/04-situation-01-01.md
 ---
 
