@@ -7,6 +7,5 @@ class: text-2xl
 # Our journey
 
 - A bit history
-- [<span class="color-primary">What/When</span>] Questions
-- Situations
-- Solutions
+- [<span class="color-primary">What/Why/When</span>] Questions
+- Situations/Solutions
