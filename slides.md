@@ -66,6 +66,10 @@ src: ./slides/03-when-05.md
 ---
 
 ---
+src: ./slides/03-when-06.md
+---
+
+---
 src: ./slides/04-situations.md
 ---
 

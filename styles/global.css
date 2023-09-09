@@ -45,3 +45,18 @@ li {
 pre {
   text-align: left;
 }
+
+.diagram,
+.code {
+  height: 100%;
+  margin: 0 auto;
+}
+
+.code {
+  margin-top: -2rem;
+}
+
+.diagram {
+  margin-top: 1rem;
+  height: 80%;
+}
