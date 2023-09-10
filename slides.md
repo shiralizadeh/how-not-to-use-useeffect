@@ -78,6 +78,18 @@ src: ./slides/04-situation-01-01.md
 ---
 
 ---
+src: ./slides/04-situation-01-02.md
+---
+
+---
+src: ./slides/04-situation-01-03.md
+---
+
+---
+src: ./slides/04-situation-01-04.md
+---
+
+---
 src: ./slides/04-situation-02-01.md
 ---
 

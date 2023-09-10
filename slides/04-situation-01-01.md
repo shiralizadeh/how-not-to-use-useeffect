@@ -5,6 +5,7 @@ class: text-2xl
 
 # Nasty loop
 
-- `useEffect` without dependency array
 - Setting a state that update a dependency
-- [Network tab requests] + [Situation] + [Solutions]
+- `useEffect` without dependency array
+
+<img src="/images/network-tab.png" />
