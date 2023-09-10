@@ -94,6 +94,18 @@ src: ./slides/04-situation-02-01.md
 ---
 
 ---
+src: ./slides/04-situation-02-02.md
+---
+
+---
+src: ./slides/04-situation-02-03.md
+---
+
+---
+src: ./slides/04-situation-02-04.md
+---
+
+---
 src: ./slides/04-situation-03-01.md
 ---
 

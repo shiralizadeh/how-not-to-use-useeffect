@@ -6,5 +6,8 @@ class: text-2xl
 # `async` function
 
 - Pass an `async` function as useEffect callback
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
-- [Return type promise] + [Situation] + [Solutions]
+
+<div style="display: flex;" class="mt-10">
+  <img src="/images/04-situation-02-async.png" class="code" style="width: 50%;" />
+  <img src="/images/04-situation-02-then.png" class="code" style="width: 50%;"/>
+</div>
