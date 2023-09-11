@@ -1,8 +1,8 @@
 ---
+layout: cover
 class: text-2xl
 ---
 
-# What's next?
-
-- ~~Side effect~~
-- 
+# Isn't there a better way?!
+- useSyncExternalStore
+- Render as you render
