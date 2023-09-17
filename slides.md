@@ -126,6 +126,14 @@ src: ./slides/04-situation-05-01.md
 ---
 
 ---
+src: ./slides/04-situation-05-02.md
+---
+
+---
+src: ./slides/04-situation-05-03.md
+---
+
+---
 src: ./slides/05-usequery-01.md
 ---
 

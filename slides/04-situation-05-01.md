@@ -3,7 +3,7 @@ layout: default
 class: text-2xl
 ---
 
-# Handling events
+# Nasty event call
+### Using **useEffect** to handle<br />an **event** call.
 
-<img src="/images/04-situation-04-02.png" style="position: absolute; right: 0; top: 0; height: 550px;"/>
-
+<img src="/images/04-situation-05-01.png" style="position: absolute; right: 0; top: 0; height: 550px;"/>
