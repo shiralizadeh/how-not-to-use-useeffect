@@ -4,8 +4,7 @@ class: text-2xl
 ---
 
 # `async` function
-
-- Pass an `async` function as useEffect callback
+### Pass an `async` function as useEffect callback
 
 <div style="display: flex; align-content: top;" class="mt-5">
   <img src="/images/04-situation-02-async.png" class="code h-full m-auto" style="width: 50%;" />

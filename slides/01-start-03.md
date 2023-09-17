@@ -1,6 +1,5 @@
 ---
-layout: image-right
-image: images/s-02.jpeg
+layout: default
 class: text-2xl
 ---
 
