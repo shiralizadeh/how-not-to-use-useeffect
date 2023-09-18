@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: image-right
+image: images/bg-01.png
 class: text-2xl
 ---
 

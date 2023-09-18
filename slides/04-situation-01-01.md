@@ -3,7 +3,7 @@ layout: default
 class: text-2xl
 ---
 
-# Nasty loop
+# 1. Nasty **loop**
 
 - **Setting a state** that update a dependency
 - Setting a state in a `useEffect` **without dependency** array

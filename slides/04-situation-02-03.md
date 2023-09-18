@@ -3,7 +3,7 @@ layout: default
 class: text-2xl
 ---
 
-# Cleanup function
+# What about **Cleanup** function?
 
 <div style="display: flex;" class="mt-5">
   <img src="/images/04-situation-02-then-cleanup.png" class="code h-full m-auto" style="width: 50%;"/>

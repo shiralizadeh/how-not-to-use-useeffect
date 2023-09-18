@@ -70,6 +70,10 @@ src: ./slides/03-when-06.md
 ---
 
 ---
+src: ./slides/03-when-07.md
+---
+
+---
 src: ./slides/04-situations.md
 ---
 
@@ -134,7 +138,35 @@ src: ./slides/04-situation-05-03.md
 ---
 
 ---
-src: ./slides/05-usequery-01.md
+src: ./slides/04-situation-06-01.md
+---
+
+---
+src: ./slides/04-situation-06-02.md
+---
+
+---
+src: ./slides/04-situation-06-03.md
+---
+
+---
+src: ./slides/04-situation-06-04.md
+---
+
+---
+src: ./slides/04-situation-06-05.md
+---
+
+---
+src: ./slides/04-situation-06-06.md
+---
+
+---
+src: ./slides/04-situation-06-07.md
+---
+
+---
+src: ./slides/99-end-01.md
 ---
 
 ---

@@ -3,7 +3,7 @@ layout: default
 class: text-2xl
 ---
 
-# Javascript thingy
+# 3. Nasty **Javascript**
 
 - DOM manipulation
 - Event listeners
